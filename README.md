@@ -2,7 +2,7 @@
 Practice: JS Arrays 
 
 
-Practice working with arrays from Udemy course. There are 4 accounts: 
+Working with arrays from Udemy course. There are 4 accounts: 
 - user: js; pin: 1111;
 - user: jd; pin: 2222;
 - user: stw; pin: 3333;
